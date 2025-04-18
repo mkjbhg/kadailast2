@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Spring Bootアプリケーションの起動
-java -jar /var/www/java/KadaiFirstSpringBoot-0.0.1-SNAPSHOT.jar &
+java -jar /var/www/java/DailyReportSystemApplication-0.0.1-SNAPSHOT.jar &
 
 # JPA使用 の起動★
 java -jar ./DailyReportSystemApplication-0.0.1-SNAPSHOT.jar &
